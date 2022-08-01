@@ -1,1 +1,0 @@
-# C_lan_prime_num
